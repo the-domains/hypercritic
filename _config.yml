@@ -1,0 +1,14 @@
+layout_spectrum: 0.6396199816372246
+typography_spectrum: 0.3983958519529551
+color:
+  brandStrength: 0.17874407721683383
+  lightness: 0.8180400282144547
+  saturation: 0.2912686506751925
+  rhythmicContrast: 0.6386374393478036
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: HYPERCRITIC
